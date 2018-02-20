@@ -14,5 +14,10 @@ public class LoginPage {
 	{
 		System.out.println("Test1");
 	}
+	
+	public void loginset()
+	{
+		System.out.println("INSIDE LOGIN-SET");
+	}
 
 }
